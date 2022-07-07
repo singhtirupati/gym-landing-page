@@ -1,7 +1,5 @@
 # gym-landing-page
 
-# qrcode_generator  
-
 **Tech Used:** *HTML*
 
 ## Screenshots
